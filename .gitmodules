@@ -1,0 +1,3 @@
+[submodule "book_repo"]
+	path = book_repo
+	url = https://github.com/cfregly/ai-performance-engineering
